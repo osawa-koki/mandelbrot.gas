@@ -63,7 +63,7 @@ clasp open
 `https://script.google.com/u/0/home/projects/⭐️プロジェクトID⭐️/settings`から登録可能です。  
 `⭐️プロジェクトID⭐️`は、`.clasp.json`に記載されています。  
 
-![プロパティサービスへのデータの登録](./docs/images/property-service.gif)  
+![プロパティサービスへのデータの登録](./docs/img/property-service.gif)  
 
 登録するデータは`.env.example`に記載しています。  
 
