@@ -1,8 +1,8 @@
 {
-  "name": "learning-google-spread-sheet.gas",
+  "name": "mandelbrot.gas",
   "version": "1.0.0",
-  "description": "😖😖😖 GASでGoogleスプレッドシートを操作してみる！",
-  "repository": "https://github.com/osawa-koki/learning-google-spread-sheet.gas.git",
+  "description": "☠☠☠ GASを使用してGoogleスプレッドシート上にマンデルブロ集合を描画してみる！",
+  "repository": "https://github.com/osawa-koki/lmandelbrot.gas.git",
   "author": "osawa-koki <github@osawa.dev>",
   "license": "Apache-2.0",
   "private": false,
